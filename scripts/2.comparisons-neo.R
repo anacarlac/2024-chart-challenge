@@ -26,6 +26,25 @@ data_literacy %>%
       gender == "women" ~ "Women"
     )
   ) %>% 
+  dplyr::mutate(
+    ethnicity = dplyr::case_when(
+      ethnicity == "black or brown" ~ "Black or Brown",
+      ethnicity == "white" ~ "White"
+    )     
+  ) %>% 
+  dplyr::mutate(
+    age = dplyr::case_when(
+      age == "15 - 24" ~ "15 - 24 \nyears old",
+      age == "25 - 64" ~ "25 - 64 \nyears old",
+      age == "65 or more" ~ "over 65 \nyears old"
+    )     
+  ) %>% 
+  dplyr::mutate(
+    ages=fct_relevel(age,c("15 - 24 \nyears old",
+                           "25 - 64 \nyears old",
+                           "over 65 \nyears old")
+                     )
+    ) %>% 
   ggplot(aes(y=literacy, x=age, fill=ethnicity)) + 
   geom_bar(position="dodge", 
            stat="identity"
@@ -42,15 +61,21 @@ data_literacy %>%
     title = "New policies, new insights? \nLiteracy levels for different generations in Brazil",
     subtitle = "Percentage of literate Brazilian people aged over 15 years old grouped by ethnicity, age and gender",
     caption = "Visualization by Ana Crispim. Data retrieved from Brazilian Gender data CMIG - 2024",
-    x = "Age groups", y = " ",
+    x = " ", y = " ",
     fill = "Ethnicity"
   ) +
-  theme(legend.position = "none",
+  theme(
+        legend.position = "bottom",
+        legend.title = element_text(size = 8),
+        legend.text = element_text(size = 8),
+        legend.box.spacing = margin(1),
+        legend.key.width = unit(0.5, 'cm'),
+        legend.key.height = unit(0.5, 'cm'),
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
         panel.background = element_rect(fill = 'white', color = "white"),
         strip.background = element_rect(colour="white", fill="white"),
-        plot.margin = margin(t = 1, r = 2, b = 1, l = 0, "cm"),
+        plot.margin = margin(t = 1, r = 2, b = 0.5, l = 0, "cm"),
         plot.title = element_text(
           size = 14,
           face = "bold"),
@@ -60,10 +85,10 @@ data_literacy %>%
         plot.caption = element_text(size = 8,
                                     color = "black", 
                                     hjust = 0,
-                                    vjust = -5),
+                                    vjust = 0.5),
         axis.text.x = element_text(size = 10,
                                    vjust = -1),
-        axis.title.x = element_text(vjust = -3)
+        axis.title.x = element_text(vjust = -4)
         
   )
 
