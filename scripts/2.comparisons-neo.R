@@ -39,7 +39,7 @@ data_literacy %>%
   facet_grid(~gender) +
   scale_y_continuous(limits = c(0, 110), breaks = seq(0, 110, by = 20)) +
   labs(
-    title = "Neo(w) policies, neo(w) insights? \nLiteracy levels for different generations in Brazil",
+    title = "New policies, new insights? \nLiteracy levels for different generations in Brazil",
     subtitle = "Percentage of literate Brazilian people aged over 15 years old grouped by ethnicity, age and gender",
     caption = "Visualization by Ana Crispim. Data retrieved from Brazilian Gender data CMIG - 2024",
     x = "Age groups", y = " ",
