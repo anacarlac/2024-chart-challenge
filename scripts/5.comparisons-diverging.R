@@ -60,7 +60,7 @@ data_college %>%
   xlab("") +
   ylab("") +
   labs(
-    title = "Are career interests diverging? \nEnrollment rates for college degrees",
+    title = "Are career interests diverging between men and women? \nEnrollment rates for college degrees",
     subtitle = "Percentage of Brazilian men and women enrolled in on-campus college courses",
     caption = "Visualization by Ana Crispim. Data retrieved from Brazilian Gender data CMIG - 2024",
     x = " ", y = " ",
@@ -84,7 +84,7 @@ data_college %>%
     #legend.background = element_rect(fill = 'white'), #change legend box background color
     plot.margin = margin(t = 1, r = 2, b = 0.5, l = 0, "cm"),
     plot.title = element_text(
-      size = 18,
+      size = 14,
       face = "bold"),
     plot.subtitle = element_markdown(
       size = 10,
@@ -139,7 +139,7 @@ data_college %>%
   xlab("") +
   ylab("") +
   labs(
-    title = "Are career interests diverging? \nGraduation rates for college degrees",
+    title = "Are career interests diverging between men and women?  \nGraduation rates for college degrees",
     subtitle = "Percentage of Brazilian men and women graduated in on-campus college courses",
     caption = "Visualization by Ana Crispim. Data retrieved from Brazilian Gender data CMIG - 2024",
     x = " ", y = " ",
@@ -163,7 +163,7 @@ data_college %>%
     #legend.background = element_rect(fill = 'white'), #change legend box background color
     plot.margin = margin(t = 1, r = 2, b = 0.5, l = 0, "cm"),
     plot.title = element_text(
-      size = 18,
+      size = 14,
       face = "bold"),
     plot.subtitle = element_markdown(
       size = 10,
