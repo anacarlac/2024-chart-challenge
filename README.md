@@ -7,11 +7,14 @@
 
 ## Comparison prompts:
 
-### Day 1, part-to-whole: 1.comparisons-parttowhole.R
+### day1::part-to-whole: 1.comparisons-parttowhole.R
 <img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day1-comparisons-partoftowhole-using-r.png" width="400"> 
 
-### Day 2, neo: 2.comparisons-neo.R
+### day2::neo: 2.comparisons-neo.R
 <img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day2-comparisons-neo-using-r.png" width="500">
 
+### day3::makeover: 3.comparisons-makeover.R
+<img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day3-comparisons-makeover-using-r.png" width="500">
 
-### 
+### day4::waffle: 4.comparisons-waffle.R
+<img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day4-comparisons-waffle-using-r.png" width="500">
