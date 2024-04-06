@@ -1,0 +1,2507 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>OECD.Stat</Author>
+  <Created>2024-04-06T22:05:17Z</Created>
+  <Company>OECD</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6090</WindowHeight>
+  <WindowWidth>8210</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2154687939808">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687939828">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687939848">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687939868">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687939888">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687939908">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687940224">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687940244">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687940264">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687940284">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687940304">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687940324">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687926288">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687926308">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687926328">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687926348">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687926368">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687926388">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927120">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927140">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927160">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927180">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927200">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927220">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921296">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921316">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921336">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921356">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921376">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921396">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687920464">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687920484">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687920504">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687920524">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687920544">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687920564">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925456">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925476">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925496">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925516">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925536">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925556">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927328">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927348">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927368">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927388">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927408">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687927428">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925664">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925684">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925704">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925724">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925744">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687925764">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921712">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921732">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921752">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921772">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921792">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687921812">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687918176">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687918196">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Underline="Single"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687918216">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687918236">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687918256">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2154687918276">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="9" ss:Color="#000080"
+    ss:Bold="1" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s113">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s114">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s120">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <NumberFormat ss:Format="#,##0.0_ ;\-#,##0.0\ "/>
+  </Style>
+  <Style ss:ID="s121">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s127">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#F0F8FF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0_ ;\-#,##0.0\ "/>
+  </Style>
+  <Style ss:ID="s128">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <NumberFormat ss:Format="#,##0.0_ ;\-#,##0.0\ "/>
+  </Style>
+  <Style ss:ID="s133">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s134">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s135">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s136">
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s139">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s140">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0_ ;\-#,##0.0\ "/>
+  </Style>
+  <Style ss:ID="s141">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0_ ;\-#,##0.0\ "/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Indicator C4 Total public expen">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="69" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="12.5">
+   <Column ss:AutoFitWidth="0" ss:Width="144" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="13"/>
+   <Column ss:Index="10" ss:StyleID="s136" ss:AutoFitWidth="0"/>
+   <Column ss:Index="13" ss:StyleID="s136" ss:AutoFitWidth="0"/>
+   <Row ss:Hidden="1">
+    <Cell ss:StyleID="s62" ss:Formula="=DotStatQuery(RC[1])"><Data ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;WebTableParameter xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns=&quot;http://stats.oecd.org/OECDStatWS/2004/03/01/&quot;&gt;&lt;DataTable Code=&quot;EAG_FIN_RATIO&quot; HasMetadata=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Educational Finance Indicators&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Indicateurs de financement de l'éducation&lt;/Name&gt;&lt;Dimension Code=&quot;COUNTRY&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;LOCATION&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Country&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Pays&lt;/Name&gt;&lt;Member Code=&quot;AUS&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Australia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Australie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;AUT&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Austria&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Autriche&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;BEL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Belgium&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Belgique&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CAN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Canada&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Canada&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CHL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Chile&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Chili&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;COL&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Colombia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Colombie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CRI&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Costa Rica&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Costa Rica&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CZE&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Czechia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Tchéquie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;DNK&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Denmark&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Danemark&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;EST&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Estonia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Estonie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;FIN&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Finland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Finlande&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;FRA&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;France&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;France&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;DEU&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Germany&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Allemagne&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;GRC&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Greece&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Grèce&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;HUN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Hungary&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Hongrie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ISL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Iceland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Islande&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;IRL&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Ireland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Irlande&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ISR&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Israel&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Israël&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ITA&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Italy&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Italie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;JPN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Japan&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Japon&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;KOR&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Korea&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Corée&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;LVA&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Latvia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Lettonie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;LTU&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Lithuania&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Lituanie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;LUX&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Luxembourg&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Luxembourg&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;MEX&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Mexico&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Mexique&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;NLD&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Netherlands&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Pays-Bas&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;NZL&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;true&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;New Zealand&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Nouvelle-Zélande&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;NOR&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Norway&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Norvège&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;POL&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Poland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Pologne&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;PRT&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Portugal&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Portugal&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;SVK&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Slovak Republic&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;République slovaque&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;SVN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Slovenia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Slovénie&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;ESP&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Spain&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Espagne&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;SWE&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Sweden&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Suède&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;CHE&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Switzerland&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Suisse&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;TUR&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Türkiye&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Türkiye&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;GBR&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;United Kingdom&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Royaume-Uni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;USA&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;United States&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;États-Unis&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;OAVG&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;OECD - Average&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Moyenne OCDE&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;E25&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;EU25: European Union of twenty-five&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;UE25: Union européenne des vingt-cinq&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;G20&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;G20&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;G20&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;NMEC&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;1&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Non-OECD Economies&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Économies non-OCDE&lt;/Name&gt;&lt;ChildMember Code=&quot;ARG&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Argentina&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Argentine&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;BRA&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Brazil&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Brésil&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;BGR&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Bulgaria&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Bulgarie&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;CHN&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;China (People's Republic of)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Chine (République populaire de)&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;HRV&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Croatia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Croatie&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;IND&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;India&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Inde&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;IDN&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Indonesia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Indonésie&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;PER&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Peru&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Pérou&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;ROU&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Romania&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Roumanie&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;SAU&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Saudi Arabia&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Arabie saoudite&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;ZAF&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;South Africa&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Afrique du Sud&lt;/Name&gt;&lt;/ChildMember&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;ISC11&quot; HasMetadata=&quot;false&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;ISC11&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;ISC11&lt;/Name&gt;&lt;Member Code=&quot;L1&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Primary education (ISCED2011 level 1)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Enseignement primaire (niveau&#160;1 de la CITE&#160;2011)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;L2&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Lower secondary education (ISCED2011 level 2)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Premier cycle de l’enseignement secondaire (niveau&#160;2 de la CITE&#160;2011)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;L3&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;1&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Upper secondary education (ISCED2011 level 3)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Deuxième cycle de l’enseignement secondaire (niveau&#160;3 de la CITE&#160;2011)&lt;/Name&gt;&lt;ChildMember Code=&quot;L3_C4&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Upper secondary general education (ISCED2011 level 3 programme 4)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Filière générale du deuxième cycle de l’enseignement secondaire (niveau&#160;3 de la CITE 2011, programme&#160;4)&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;L3_C5&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Upper secondary vocational education (ISCED2011 level 3 programme 5)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Filière professionnelle du deuxième cycle de l’enseignement secondaire (niveau&#160;3 de la CITE&#160;2011, programme&#160;5)&#160;&lt;/Name&gt;&lt;/ChildMember&gt;&lt;/Member&gt;&lt;Member Code=&quot;L4&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Post-secondary non-tertiary education  (ISCED2011 level 4)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Enseignement post-secondaire non tertiaire (niveau&#160;4 de la CITE 2011)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;L1T4&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Primary, secondary education and post-secondary non-tertiary education (ISCED2011 levels 1 to 4)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Primaire, secondaire et post-secondaire non tertiaire &lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;L5&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Short-cycle tertiary education (ISCED2011 level 5)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Enseignement tertiaire de cycle court (niveau&#160;5 de la CITE 2011)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;L6T8&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Long cycle tertiary (ISCED2011 levels 6 to 8)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Enseignement tertiaire de cycle long (Niveaux 6 à 8 de la CITE 2011)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;L5T8&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Total tertiary education (ISCED2011 levels 5 to 8)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Ensemble de l’enseignement tertiaire (niveaux 5 à 8 de la CITE 2011)&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;L1T8&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Primary to Tertiary education (ISCED2011 levels 1 to 8)&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Enseignement primaire à supérieur (niveaux 1 à 8 de la CITE2011)&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;REF_SECTOR&quot; HasMetadata=&quot;false&quot; Display=&quot;codesandlabels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;REF_SECTOR&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;REF_SECTOR&lt;/Name&gt;&lt;Member Code=&quot;T&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;All sectors&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Tous secteurs confondus&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;S13&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot; IsDisplayed=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;General government&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Exécutif général &lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;COUNTERPART_SECTOR&quot; HasMetadata=&quot;false&quot; Display=&quot;codesandlabels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;COUNTERPART_SECTOR&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;COUNTERPART_SECTOR&lt;/Name&gt;&lt;Member Code=&quot;T&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;All sectors&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Tous secteurs confondus&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;S1D&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Non-educational private sector&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Secteur privé sans vocation éducative&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;EXPENDITURE_TYPE&quot; HasMetadata=&quot;false&quot; Display=&quot;codesandlabels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;EXPENDITURE_TYPE&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;EXPENDITURE_TYPE&lt;/Name&gt;&lt;Member Code=&quot;T&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;All expenditure types&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Tous les types de depenses&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;TRF_PAY&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Transfers and payments&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Transferts et paiements&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;EXCLRD&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Excluding R&amp;amp;D&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Excluant R&amp;amp;D&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;UNIT_MEASURE&quot; HasMetadata=&quot;false&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;UNIT_MEASURE&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;UNIT_MEASURE&lt;/Name&gt;&lt;Member Code=&quot;PERCENTAGE&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Percentage&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Pourcentage&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;INDICATOR&quot; HasMetadata=&quot;false&quot; Display=&quot;codesandlabels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Indicator&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Indicateur&lt;/Name&gt;&lt;Member Code=&quot;FIN_PUBEXP_TGE&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot; IsDisplayed=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Total public expenditure on education as a percentage of total government expenditure&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Part en pourcentage des dÃ©penses totales publiques relatives Ã&#160; l'Ã©ducation dans les dÃ©penses totales du gouvernement&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;FIN_PUBEXP_GDP&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;true&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Public expenditure on education as a percentage of GDP&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;DÃ©penses publiques relatives Ã&#160; l'Ã©ducation en pourcentage du PIB&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;FIN_TOTEXP_GDP&quot; HasMetadata=&quot;true&quot; HasOnlyUnitMetadata=&quot;true&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Total government expenditure on all services as a percentage of GDP&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Total des dÃ©penses gouvernementales relatives aux services en pourcentage du PIB&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;YEAR&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;TIME&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Year&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;Année&lt;/Name&gt;&lt;Member Code=&quot;1995&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;1995&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;1995&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2000&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2000&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2000&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2005&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2005&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2005&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2008&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2008&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2008&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2009&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2009&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2009&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2010&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2010&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2010&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2011&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2011&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2011&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2012&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2012&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2012&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2013&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2013&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2013&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2014&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2014&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2014&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2015&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2015&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2015&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2016&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2016&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2016&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2017&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2017&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2017&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2018&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot; IsDisplayed=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2018&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2018&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2019&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2019&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2019&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2020&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2020&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2020&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2021&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2021&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;fr&quot;&gt;2021&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Tabulation Axis=&quot;horizontal&quot;&gt;&lt;Dimension Code=&quot;ISC11&quot; /&gt;&lt;/Tabulation&gt;&lt;Tabulation Axis=&quot;vertical&quot;&gt;&lt;Dimension Code=&quot;COUNTRY&quot; CommonCode=&quot;LOCATION&quot; /&gt;&lt;/Tabulation&gt;&lt;Tabulation Axis=&quot;page&quot;&gt;&lt;Dimension Code=&quot;INDICATOR&quot; /&gt;&lt;Dimension Code=&quot;YEAR&quot; CommonCode=&quot;TIME&quot; /&gt;&lt;Dimension Code=&quot;REF_SECTOR&quot; /&gt;&lt;Dimension Code=&quot;COUNTERPART_SECTOR&quot; /&gt;&lt;Dimension Code=&quot;EXPENDITURE_TYPE&quot; /&gt;&lt;Dimension Code=&quot;UNIT_MEASURE&quot; /&gt;&lt;/Tabulation&gt;&lt;Formatting&gt;&lt;Labels LocaleIsoCode=&quot;en&quot; /&gt;&lt;Power&gt;0&lt;/Power&gt;&lt;Decimals&gt;1&lt;/Decimals&gt;&lt;SkipEmptyLines&gt;true&lt;/SkipEmptyLines&gt;&lt;SkipEmptyCols&gt;false&lt;/SkipEmptyCols&gt;&lt;SkipLineHierarchy&gt;false&lt;/SkipLineHierarchy&gt;&lt;SkipColHierarchy&gt;false&lt;/SkipColHierarchy&gt;&lt;Page&gt;1&lt;/Page&gt;&lt;/Formatting&gt;&lt;/DataTable&gt;&lt;Format&gt;&lt;ShowEmptyAxes&gt;true&lt;/ShowEmptyAxes&gt;&lt;Page&gt;1&lt;/Page&gt;&lt;EnableSort&gt;true&lt;/EnableSort&gt;&lt;IncludeFlagColumn&gt;false&lt;/IncludeFlagColumn&gt;&lt;IncludeTimeSeriesId&gt;false&lt;/IncludeTimeSeriesId&gt;&lt;DoBarChart&gt;false&lt;/DoBarChart&gt;&lt;FreezePanes&gt;true&lt;/FreezePanes&gt;&lt;MaxBarChartLen&gt;65&lt;/MaxBarChartLen&gt;&lt;/Format&gt;&lt;Query&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Indicator C4: Total public expenditure on education as a percentage of Total Government Expenditure&lt;/Name&gt;&lt;AbsoluteUri&gt;http://stats.oecd.org//View.aspx?QueryId=126276&amp;amp;QueryType=Public&amp;amp;Lang=en&lt;/AbsoluteUri&gt;&lt;/Query&gt;&lt;/WebTableParameter&gt;</Data></Cell>
+   </Row>
+   <Row ss:Height="23">
+    <Cell ss:StyleID="s63" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Dataset: Educational Finance Indicators</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2154687918176"><Data ss:Type="String">Indicator</Data></Cell>
+    <Cell ss:MergeAcross="10" ss:StyleID="m2154687918196" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">FIN_PUBEXP_TGE: Total public expenditure on education as a percentage of total government expenditure</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2154687918216"><Data ss:Type="String">Year</Data></Cell>
+    <Cell ss:MergeAcross="10" ss:StyleID="m2154687918236"><Data ss:Type="String">2018</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2154687918256"><Data ss:Type="String">REF_SECTOR</Data></Cell>
+    <Cell ss:MergeAcross="10" ss:StyleID="m2154687918276"><Data ss:Type="String">S13: General government</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2154687921712"><Data ss:Type="String">COUNTERPART_SECTOR</Data></Cell>
+    <Cell ss:MergeAcross="10" ss:StyleID="m2154687921732"><Data ss:Type="String">T: All sectors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2154687921752"><Data ss:Type="String">EXPENDITURE_TYPE</Data></Cell>
+    <Cell ss:MergeAcross="10" ss:StyleID="m2154687921772"><Data ss:Type="String">T: All expenditure types</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2154687921792"><Data ss:Type="String">UNIT_MEASURE</Data></Cell>
+    <Cell ss:MergeAcross="10" ss:StyleID="m2154687921812"><Data ss:Type="String">Percentage</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="m2154687925664"><Data
+      ss:Type="String">ISC11</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687925684"><Data ss:Type="String">Primary education (ISCED2011 level 1)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687925704"><Data ss:Type="String">Lower secondary education (ISCED2011 level 2)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687925724"><Data ss:Type="String">Upper secondary education (ISCED2011 level 3)</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687925744"><Data ss:Type="String">Upper secondary education (ISCED2011 level 3)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687925764"><Data ss:Type="String">Post-secondary non-tertiary education  (ISCED2011 level 4)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687927328"><Data ss:Type="String">Primary, secondary education and post-secondary non-tertiary education (ISCED2011 levels 1 to 4)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687927348"><Data ss:Type="String">Short-cycle tertiary education (ISCED2011 level 5)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687927368"><Data ss:Type="String">Long cycle tertiary (ISCED2011 levels 6 to 8)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687927388"><Data ss:Type="String">Total tertiary education (ISCED2011 levels 5 to 8)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m2154687927408"><Data ss:Type="String">Primary to Tertiary education (ISCED2011 levels 1 to 8)</Data></Cell>
+   </Row>
+   <Row ss:Height="80">
+    <Cell ss:Index="7" ss:StyleID="s97"><Data ss:Type="String">  Upper secondary general education (ISCED2011 level 3 programme 4)</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">  Upper secondary vocational education (ISCED2011 level 3 programme 5)</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687927428"><Data ss:Type="String">Country</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s139"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s139"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687925456" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[AUS]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Australia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">4.5211410000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.781847</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.6301509999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.1506749999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.47947620000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.23793339999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">9.1710720000000006</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.41674719999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.606109</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.0228570000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">12.19393</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687925476"><Data ss:Type="String">Austria</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.8313109999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.2559909999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.871191</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.62221570000000004</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.2489749999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.1951599999999997E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">5.9904440000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.53759880000000004</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.9471769999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.4847760000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">9.4752200000000002</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687925496"><Data ss:Type="String">Belgium</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.9152710000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.679773</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3],[COUNTRY].[BEL]&amp;Sh"><Data
+      ss:Type="Number">3.2712560000000002</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3_C4],[COUNTRY].[BEL]"><Data
+      ss:Type="Number">1.3370340000000001</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3_C5],[COUNTRY].[BEL]"><Data
+      ss:Type="Number">1.9342220000000001</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L4],[COUNTRY].[BEL]&amp;Sh"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.8662999999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">6.6611100000000006E-2</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.7830499999999998</Data></Cell>
+    <Cell ss:StyleID="s141" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L5T8],[COUNTRY].[BEL]&amp;"><Data
+      ss:Type="Number">2.8496610000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">10.715960000000001</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687925516"><Data ss:Type="String">Canada</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L1],[COUNTRY].[CAN]&amp;Sh"><Data
+      ss:Type="Number">4.6520489999999999</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L2],[COUNTRY].[CAN]&amp;Sh"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3],[COUNTRY].[CAN]&amp;Sh"><Data
+      ss:Type="Number">2.871003</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3_C4],[COUNTRY].[CAN]"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3_C5],[COUNTRY].[CAN]"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L4],[COUNTRY].[CAN]&amp;Sh"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s141" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L1T4],[COUNTRY].[CAN]&amp;"><Data
+      ss:Type="Number">7.5230519999999999</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L5],[COUNTRY].[CAN]&amp;Sh"><Data
+      ss:Type="Number">1.2105669999999999</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L6T8],[COUNTRY].[CAN]&amp;"><Data
+      ss:Type="Number">2.5569540000000002</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.7675209999999999</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L1T8],[COUNTRY].[CAN]&amp;"><Data
+      ss:Type="Number">11.290570000000001</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687925536"><Data ss:Type="String">Chile</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">5.9756080000000003</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.147481</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.9029319999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.6944859999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.2084459999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">12.026020000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.76658479999999996</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">4.6226399999999996</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">5.3892249999999997</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">17.41525</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687925556" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[COL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Colombia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.455905</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.9475370000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.072587</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L4],[COUNTRY].[COL]&amp;Sh"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.4760289999999996</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.3254000000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">9.8014290000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687920464" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[CRI]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Costa Rica</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">5.8037419999999997</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.7934239999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.011244</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.86557090000000003</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.1456729999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">11.608409999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">4.632098</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">16.24051</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687920484"><Data ss:Type="String">Czechia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.08188</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.4653399999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.2261829999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.55110570000000003</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.6750769999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">7.2979999999999998E-3</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.7807009999999996</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.20754E-2</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.262419</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.2744939999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">9.0551960000000005</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687920504"><Data ss:Type="String">Denmark</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.4679920000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.1495389999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.2221869999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.339234</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.88295319999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.8397170000000003</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.35841810000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">4.3577529999999998</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">4.7161710000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">12.55589</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687920524" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[EST]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Estonia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.7134010000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.7344930000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.922485</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.054881</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.86760470000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.22756509999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.597944</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.995787</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.995787</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">10.593730000000001</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687920544" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[FIN]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Finland</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.527755</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.9925660000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.3341630000000002</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.650362</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.6838010000000001</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.8544840000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.881888</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.881888</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">9.7363719999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687920564"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.085143</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.1185489999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.0378750000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.307234</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.73064090000000004</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.4082300000000003E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.2756499999999997</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.49157420000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.7148699999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.206445</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">8.4820949999999993</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687921296" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[DEU]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.4610829999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.6582400000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.850641</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.91292379999999995</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.93771760000000004</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.34704390000000002</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.3170089999999997</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">4.171E-4</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.8590490000000002</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.8594659999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">9.1764749999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687921316"><Data ss:Type="String">Greece</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.5826440000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.4944949999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.379313</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.83844430000000003</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.54086920000000005</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">4.04867E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">5.4564519999999996</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.3785750000000001</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">1.3785750000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">6.8350270000000002</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687921336"><Data ss:Type="String">Hungary</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.3876040000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.413062</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.2767750000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.368196</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.90857920000000003</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.52247189999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">5.5999119999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.02651E-2</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.7229829999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">1.7532479999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">7.3531599999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687921356"><Data ss:Type="String">Iceland</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">5.1813840000000004</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.4272260000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.4006639999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.6377930000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.76287090000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.1395149</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">10.14879</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">8.9157899999999998E-2</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.7185820000000001</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.8077399999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">12.956530000000001</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687921376" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[IRL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Ireland</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">4.5714410000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.9298390000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.2859449999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.34335189999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">9.1305770000000006</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.6018919999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">12.732469999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687921396" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[ISR]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Israel</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">6.0376750000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3],[COUNTRY].[ISR]&amp;Sh"><Data
+      ss:Type="Number">4.791906</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3_C4],[COUNTRY].[ISR]"><Data
+      ss:Type="Number">3.060028</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3_C5],[COUNTRY].[ISR]"><Data
+      ss:Type="Number">1.7318770000000001</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.13858E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">10.85097</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.43645620000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.663257</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.0997129999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">12.95068</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687927120" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[ITA]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Italy</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.9783409999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.3969750000000001</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3],[COUNTRY].[ITA]&amp;Sh"><Data
+      ss:Type="Number">2.8358479999999999</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.211163</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">6.3381000000000002E-3</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.5935280000000001</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">1.599866</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">7.8110290000000004</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687927140"><Data ss:Type="String">Japan</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.8050459999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.638072</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3],[COUNTRY].[JPN]&amp;Sh"><Data
+      ss:Type="Number">1.6748369999999999</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3_C4],[COUNTRY].[JPN]"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3_C5],[COUNTRY].[JPN]"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L4],[COUNTRY].[JPN]&amp;Sh"><Data
+      ss:Type="String">..</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.1179550000000003</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.15675900000000001</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.4736880000000001</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">1.630447</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">7.7484019999999996</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687927160"><Data ss:Type="String">Korea</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">4.6976620000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.6227640000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.9634209999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">10.283849999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.3196889</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.474199</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.7938879999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">13.07774</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687927180"><Data ss:Type="String">Latvia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.2530209999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.523514</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.0254460000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.062681</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.96276490000000003</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.17362720000000001</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.9756070000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.2969868</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.5699320000000001</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">1.866919</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">8.8425270000000005</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687927200"><Data ss:Type="String">Lithuania</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.1124160000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.9534159999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.1918519999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.86597049999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.3258817</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.3433775</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.6010619999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.3241939999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.3241939999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">8.9252559999999992</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687927220"><Data ss:Type="String">Luxembourg</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.4703710000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.724253</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.918447</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.67471570000000003</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.2437309999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">4.3575999999999997E-3</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.1174289999999996</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.51048E-2</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.94707640000000004</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">0.97218119999999997</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">7.0896100000000004</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687926288" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[MEX]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Mexico</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">5.1440530000000004</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.617375</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.3056890000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.409645</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.89604439999999996</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">10.067119999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.3660700000000001</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">13.43319</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687926308"><Data ss:Type="String">Netherlands</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.7352650000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.5884179999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.4935299999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.70070310000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.7928269999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.8172119999999996</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.68609E-2</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">4.0096379999999998</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">4.0364990000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">11.85371</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687926328" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[NZL]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">New Zealand</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.1554639999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.2208410000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.2917640000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.728456</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.56330789999999997</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.39829330000000002</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">8.0663610000000006</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.34637040000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.4736449999999999</Data></Cell>
+    <Cell ss:StyleID="s141" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L5T8],[COUNTRY].[NZL]&amp;"><Data
+      ss:Type="Number">3.8200159999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">11.886380000000001</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687926348" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[NOR]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Norway</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.8045870000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.6955469999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.769174</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.2604059999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.5087680000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">7.4024699999999999E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">8.3433320000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.1119058</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">4.140765</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">4.2526710000000003</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">12.596</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687926368"><Data ss:Type="String">Poland</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.511177</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.645745</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.626074</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.6111145</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.0149589999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">8.7370400000000001E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.8703659999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.193E-3</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.549687</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.5508799999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">9.421246</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687926388"><Data ss:Type="String">Portugal</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.2364259999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.467473</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3],[COUNTRY].[PRT]&amp;Sh"><Data
+      ss:Type="Number">2.2730739999999998</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.9769740000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">4.46533E-2</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.7563610000000001</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">1.8010139999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">9.7779880000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687940224"><Data ss:Type="String">Slovak Republic</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.285933</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.3187600000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.984842</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.62502619999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.359815</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">8.7421200000000004E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.6769559999999997</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.9542599999999999E-2</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.8699520000000001</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">1.8994949999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">8.5764510000000005</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687940244"><Data ss:Type="String">Slovenia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.2861539999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.7555259999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.125165</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.75105670000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.374109</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.1668450000000004</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.1186939</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.2098659999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.32856</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">9.4954049999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687940264"><Data ss:Type="String">Spain</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.686248</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.7311190000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.966385</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.149694</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.81669190000000003</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.3837520000000003</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.40443580000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.805917</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.210353</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">8.5941050000000008</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687940284" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[SWE]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">Sweden</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.8613979999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.8367800000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.5666579999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.454698</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.1119600000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.1084454</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">8.3732810000000004</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.1619524</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.4290790000000002</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.5910310000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">11.964309999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687940304"><Data ss:Type="String">Switzerland</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">4.3818440000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.5794000000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.5128870000000001</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.015631</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.4972559999999999</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">9.4741309999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.973992</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">13.448119999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687940324"><Data ss:Type="String">Türkiye</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.079466</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.16784</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.0583979999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.131769</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.9266289999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.3057030000000003</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">4.3009050000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">11.60661</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687939808"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.9975999999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.002929</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.301828</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.5929549999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.70887359999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">8.3023579999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.25816020000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.1530149999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.4111760000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">11.71353</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687939828"><Data ss:Type="String">United States</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.9213979999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.1176889999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.2162769999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.5892199999999999E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">8.2912569999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.196364</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">11.48762</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687939848" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[OAVG]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">OECD - Average</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.4120240000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.1553840000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.3015819999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.1808240000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">1.12808</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">7.840427</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.24907850000000001</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">2.5436009999999998</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.9203549999999998</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">10.76078</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687939868"><Data ss:Type="String">EU25: European Union of twenty-five</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.6815802999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.9935210999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.1014674000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.97777336999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.0827491</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.14421801000000001</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.7932768000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.15368949000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.3555893999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.4908760000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">9.2841520000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2154687939888"><Data ss:Type="String">G20</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="10" ss:StyleID="m2154687939908"><Data ss:Type="String">Non-OECD Economies</Data></Cell>
+    <Cell ss:StyleID="s121"><Data ss:Type="String">  Argentina</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.675646</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.733924</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.8442369999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">8.2538070000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.8673440000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">11.12115</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  Brazil</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">4.0696139999999996</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">3.436941</Data></Cell>
+    <Cell ss:StyleID="s128" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[INDICATOR].[FIN_PUBEXP_TGE],[YEAR].[2018],[REF_SECTOR].[S13],[COUNTERPART_SECTOR].[T],[EXPENDITURE_TYPE].[T],[UNIT_MEASURE].[PERCENTAGE],[ISC11].[L3],[COUNTRY].[BRA]&amp;Sh"><Data
+      ss:Type="Number">3.0075229999999999</Data><Comment ss:Author="MyOECD"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Segoe UI"
+        x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">10.51408</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">3.6508959999999999</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">14.16497</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  Bulgaria</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.2027899999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.1183420000000002</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.1046079999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.93632979999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.1682790000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.2750999999999999E-3</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">6.4270149999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.044797</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.044797</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">8.4718119999999999</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  China (People's Republic of)</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  Croatia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.6419709999999998</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">w: Includes data from another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.870849</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">5.5128199999999996</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">1.878727</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">7.3915470000000001</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  India</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s114" ss:HRef="http://stats.oecd.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EAG_FIN_RATIO&amp;Coords=[COUNTRY].[IDN]&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">  Indonesia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  Peru</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">5.804964</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.7017000000000002</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  Romania</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.1524700000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.892298</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.8758950000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">1.7196210000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.15627379999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">9.1580499999999995E-2</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">5.0122429999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">z: Not applicable </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.1649769999999999</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.1649769999999999</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">7.1772200000000002</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  Saudi Arabia</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">m: Missing data </Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s121"><Data ss:Type="String">  South Africa</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">6.8676550000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">2.13714</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">3.3148049999999998</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">0.3072762</Data></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">12.62688</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="String">..</Data><Comment
+      ss:Author="MyOECD"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Segoe UI" x:CharSet="1" html:Size="9" html:Color="#000000">x: Data included in another category </Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140"><Data ss:Type="Number">2.7031350000000001</Data></Cell>
+    <Cell ss:StyleID="s127"><Data ss:Type="Number">15.33001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s133" ss:HRef="https://stats-2.oecd.org/index.aspx?DatasetCode=EAG_FIN_RATIO"><Data
+      ss:Type="String">Data extracted on 06 Apr 2024 20:05 UTC (GMT) from OECD.Stat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s134"><Data ss:Type="String">Legend:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">w:</Data></Cell>
+    <Cell ss:StyleID="s134"><Data ss:Type="String">Includes data from another category</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">x:</Data></Cell>
+    <Cell ss:StyleID="s134"><Data ss:Type="String">Data included in another category</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">m:</Data></Cell>
+    <Cell ss:StyleID="s134"><Data ss:Type="String">Missing data</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">z:</Data></Cell>
+    <Cell ss:StyleID="s134"><Data ss:Type="String">Not applicable</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <TopRowVisible>1</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <ActiveCol>12</ActiveCol>
+     <RangeSelection>C10,C13</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

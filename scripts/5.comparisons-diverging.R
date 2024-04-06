@@ -117,25 +117,25 @@ data_college %>%
     college = fct_reorder(college, 
                           desc(college))) %>% 
   dplyr::filter(college != "Core Programs") %>%
-  ggplot(aes(x=college, y=enrolled)) +
-  geom_segment(aes(x=college, xend=college, y=0, yend=graduate), 
-               color="lightgrey",
-               size = 2,
-               alpha = 0.5
-  ) +
+  ggplot(aes(x=college, y=enrolled, group = gender)) +
+  # geom_segment(aes(x=college, xend=college, y=0, yend=graduate), 
+  #              color="lightgrey",
+  #              size = 2,
+  #              alpha = 0.5
+  #) +
   geom_point(aes(
     color=gender), 
     alpha=0.7, 
     size=3) +
   geom_text(aes(label = paste0(round(graduate,0), "%")), 
             position = position_dodge2(width = 0.9), 
-            size = 3,
-            #vjust=-2, 
-            hjust=-0.4
+            size = 2,
+            vjust=0.0, 
+            hjust=-0.3
   ) +
   scale_colour_manual(values = c("#82C0CC", "#F0803C")) +
   coord_flip() +
-  facet_wrap(.~ gender)+
+  #facet_wrap(.~ gender)+
   xlab("") +
   ylab("") +
   labs(
@@ -149,14 +149,19 @@ data_college %>%
                      breaks = seq(0, 100, 
                                   by = 20)) +
   theme(
-    legend.position = "none",
-    # legend.title = element_text(size = 10),
-    # legend.text = element_text(size = 10),
-    # legend.box.spacing = margin(1),
-    # legend.key.width = unit(0.5, 'cm'),
-    # legend.key.height = unit(0.5, 'cm'),
+    legend.position = "bottom",
+    legend.title = element_text(size = 10),
+    legend.text = element_text(size = 10),
+    legend.box.spacing = margin(1),
+    legend.key.width = unit(0.5, 'cm'),
+    legend.key.height = unit(0.5, 'cm'),
     panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(), # #E7E3E3
+    panel.grid.minor = element_blank(), #
+    panel.grid.major.y = element_line(
+      size = 0.40, 
+      linetype = 'solid',
+      colour = "lightgrey"
+    ), # Horizontal major grid lines
     plot.background = element_rect(fill = 'white'), #change plot background color
     panel.background = element_rect(fill = 'white'), # change the panel background color (around title)
     strip.background = element_rect(fill='white'), # change strips background color
