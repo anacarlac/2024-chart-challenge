@@ -18,3 +18,16 @@
 
 ### day4::waffle(4.comparisons-waffle.R)
 <img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day4-comparisons-waffle-using-r.png" width="700">
+
+### day5::diverging(5.comparisons-waffle.R)
+<img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day5-comparisons-diverging-enrolled-using-r.png" width="700">
+
+### day6::oecd(6.comparisons-oecd.R)
+<img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day6-comparisons-oecd-using-r.png" width="700">
+
+### day8::circular(developed in Figma and Adobe Illustrator)
+<img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day8-distribution-domesticchores-using-figma-AI.jpg" width="700">
+
+### day14::heatmap(14.rel-heatmap.R)
++ Interactive version [available here](https://rpubs.com/anacrispim/day14-heatmap).
+<img align="center" src="https://github.com/anacarlac/2024-chart-challenge/blob/master/outputs/plot-day14-rel-heatmap-using-r.png" width="700">
