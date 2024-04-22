@@ -16,7 +16,7 @@ library(prismatic)
 ##################       USE ONLY FOR SAVING RDS FILE     ####################
 ##############################################################################
 
-# Chart template: https://r-graph-gallery.com/web-dumbell-chart.html
+# Chart template and inspiration: https://r-graph-gallery.com/web-dumbell-chart.html
 
 # Load Excel data
 data_viol <- read_excel("data-raw/2024-cmig-gender-violence-at-home.xlsx")
